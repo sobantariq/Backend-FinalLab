@@ -32,10 +32,7 @@
     "type": "git",
     "url": "git+https://github.com/Abeerahmad566/ServerSide.git"
   },
-  "author": "Abeer",
+  "author": "SobanTariq",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Abeerahmad566/ServerSide/issues"
-  },
-  "homepage": "https://github.com/Abeerahmad566/ServerSide#readme"
+
 }
